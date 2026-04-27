@@ -5,6 +5,9 @@ A functional testing project built to demonstrate core QA skills using the ReqRe
 This project covers the full Software Testing Life Cycle (STLC) from test planning through
 to execution, defect reporting and test summary.
 
+**The REST API ResReq is fake API for test case 10 it registers with an existing email.
+Reqres does not flag this as an existing email since its a fake API. In real API it should return status 409 conflict**
+
 ## Skills Demonstrated
 - STLC and SDLC understanding
 - Test planning and requirement analysis
