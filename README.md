@@ -21,7 +21,7 @@ Reqres does not flag this as an existing email since its a fake API. In real API
 - Postman
 - ReqRes API (reqres.in)
 - Google Sheets
-- GitHub
+- Claude AI
 
 ## Project Structure
 - test-plan/ — Mini test plan document
